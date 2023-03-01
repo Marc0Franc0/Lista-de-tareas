@@ -12,7 +12,9 @@ function App() {
 
           <img
             src={Logo}
-            className='logo' />
+            className='logo' 
+            alt='Logo app'
+            />
         </div>
 
         <div className='tareas-lista-principal'>
